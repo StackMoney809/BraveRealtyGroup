@@ -1,2 +1,2 @@
-# http://BraveRealtyGroup.github.io
+# https://renemorales.github.io/BraveRealtyGroup/
 Real Estate Website
