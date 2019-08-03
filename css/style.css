@@ -100,7 +100,7 @@ ol {
 
 .set-bg {
 	background-repeat: no-repeat;
-	background-size: cover;
+	background-size: 100%;
 	background-position: top center;
 }
 
@@ -138,9 +138,7 @@ ol {
 	border-radius: 3px;
 	min-width: 170px;
 	text-align: center;
-	/*background: #30caa0;*/
 	background: #ffd11a;
-	/*background: #ACA6E8;*/
 	cursor: pointer;
 	border: none;
 	color: #fff;
